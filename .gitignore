@@ -1,0 +1,12 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+compile_commands.json
+.clangd
+.cache
+mbed-os
+MMA7660
+C12832
+LM75B
